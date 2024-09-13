@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ee41edd55eab990e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unidad2/12-09-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arquitectura de computadoras/11-09-24.md",
+                "file": "Unidad2/12-09-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arquitectura de computadoras/11-09-24.md",
+                "file": "Unidad2/12-09-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arquitectura de computadoras/11-09-24.md"
+                "file": "Unidad2/12-09-24.md"
               }
             }
           }
@@ -171,14 +183,23 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ad7cdda9d9047c5a",
+  "active": "096eee726bb670a8",
   "lastOpenFiles": [
+    "Pasted image 20240912073218.png",
+    "Pasted image 20240912072957.png",
+    "Pasted image 20240912072845.png",
+    "Pasted image 20240912072710.png",
+    "Pasted image 20240912072524.png",
+    "Pasted image 20240912072235.png",
+    "Pasted image 20240912071913.png",
+    "Pasted image 20240912071740.png",
+    "Arquitectura de computadoras/11-09-24.md",
+    "Unidad2/12-09-24.md",
     "Unidad2/05-09-24.md",
     "Unidad2/09-09-24.md",
     "Unidad2/10-09-24.md",
     "OIP (1) 1.jpg",
     "OIP (1).jpg",
-    "Arquitectura de computadoras/11-09-24.md",
     "Telecomunicaciones/Semana2/27-agosto-2024.md",
     "Arquitectura de computadoras",
     "Telecomunicaciones",
