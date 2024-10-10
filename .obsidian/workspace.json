@@ -19,12 +19,8 @@
             "id": "19aa5ba5e94cf005",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arquitectura_de_Computadoras/Semana1/Dia2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -39,16 +35,74 @@
             "id": "9107c15d361a917d",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Telecomunicaciones/OIP (1) 1.jpg"
+              }
+            }
+          },
+          {
+            "id": "9e591c03763118de",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Arquitectura_de_Computadoras/Semana1/Dia1.md",
+                "file": "Telecomunicaciones/obsidian/Uni3_Apuntes/Unidad3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72a40dc8bc3da780",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arquitectura_de_Computadoras/Obsidian/unidad 2/24-09-2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "243dd7f7841f10af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56f6ab5cc61db1b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Telecomunicaciones/obsidian/Uni3_Apuntes/Unidad3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "abe5632d285c6ae9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Telecomunicaciones/obsidian/Uni3_Apuntes/Unidad3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -114,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arquitectura_de_Computadoras/Semana1/Dia1.md",
+                "file": "Telecomunicaciones/obsidian/Uni3_Apuntes/Unidad3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arquitectura_de_Computadoras/Semana1/Dia1.md",
+                "file": "Telecomunicaciones/obsidian/Uni3_Apuntes/Unidad3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arquitectura_de_Computadoras/Semana1/Dia1.md"
+                "file": "Telecomunicaciones/obsidian/Uni3_Apuntes/Unidad3.md"
               }
             }
           }
@@ -175,8 +229,22 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9107c15d361a917d",
+  "active": "3d8526bb6bc6f37d",
   "lastOpenFiles": [
+    "Pasted image 20241010112808.png",
+    "Pasted image 20241010112742.png",
+    "Pasted image 20241010112720.png",
+    "Pasted image 20241010112704.png",
+    "Pasted image 20241010112553.png",
+    "Arquitectura_de_Computadoras/Obsidian/unidad 2/24-09-2024.md",
+    "Arquitectura_de_Computadoras/Obsidian/unidad 2/09-10-2024.md",
+    "Arquitectura_de_Computadoras/Obsidian/27-Agosto-2024.md",
+    "Fibra optica.md",
+    "Telecomunicaciones/obsidian/Uni3_Apuntes/Unidad3.md",
+    "Telecomunicaciones/obsidian/Uni3_Apuntes",
+    "Sin título.md",
+    "Arquitectura_de_Computadoras/Obsidian/unidad 2",
+    "Telecomunicaciones/OIP (1) 1.jpg",
     "2ea64866-9f4e-4ce8-9c1f-bd3b80120e6c.jpg",
     "93d146ae-bd0b-4d6a-bfc1-3ad3aaae43e0.jpg",
     "b5bab069-eab3-4641-b4a9-a0dc39616cfb.jpg",
@@ -189,12 +257,10 @@
     "Arquitectura_de_Computadoras/Semana1/Dia3.md",
     "Arquitectura_de_Computadoras/Semana1/Dia2.md",
     "Arquitectura_de_Computadoras/Semana1/Dia1.md",
-    "Sin título.md",
     "Telecomunicaciones/Semana2",
     "Semana 2",
     "WhatsApp Image 2024-08-22 at 6.07.07 PM.jpeg",
     "WhatsApp Image 2024-08-22 at 8.38.09 AM.jpeg",
-    "WhatsApp Image 2024-08-22 at 8.31.44 AM.jpeg",
     "Telecomunicaciones.md",
     "Arquitectura_de_Computadoras/Semana1",
     "Arquitectura_de_Computadoras",
