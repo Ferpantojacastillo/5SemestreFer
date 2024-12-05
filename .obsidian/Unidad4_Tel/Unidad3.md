@@ -5,9 +5,7 @@ Es el cambio de dirección y velocidad que experimenta una onda de luz al pasar 
 
 Es la propiedad principal de la fibra óptica
 
-
-![[Pasted image 20241010112553.png]]
-[8:22 a.m., 10/10/2024]¿Qué es la fibra óptica? 
+¿Qué es la fibra óptica? 
 
 Es una guía en forma de hilo de material altamente transparente diseñado para transmitir información a grandes distancias utilizando señales ópticas. Con sólo 2 kg de este material pueden fabricarse kms de fibra óptica.
 
@@ -44,13 +42,13 @@ La fibra está compuesta por un núcleo (core), un revestimiento (cladding o coa
 Monomodo: La fibra permite propagar un tipo de modo de luz a la avez. El cable de fibra monomodo normalmente tiene un diámetro de núcleo estrecho de 8 a 10 micrometros. 
 
 El sistema de cableado de fibra monomodo es adecuado para aplicaciones de transmisión de datos de largo alcance y se implementa ampliamente en redes de operadores y MAN. Es un tipo de fibra óptica que se utiliza sobre todo en la comunicación en distancias cortas. El cable de fibra óptica multimodo tiene un núcleo más grande, normalmente de 50 o 62,5 micras, que permite la propagación de múltiples modos de luz.
-![[Pasted image 20241010112704.png]]
-![[Pasted image 20241010112720.png]]
 Convertidores de medios.
-![[Pasted image 20241010112742.png]]
 Tranceptores.
 
 Es responsable de convertir las señales eléctricas utilizadas en los equipos de red (como switches o routers) en señales ópticas (luz) que viajan a través de los cables de fibra, y viceversa.
-![[Pasted image 20241010112808.png]]
+
+
+![[Pasted image 20241205090240.jpg]]
+![[Pasted image 20241205090258.jpg]]
 
 
